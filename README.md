@@ -1,6 +1,4 @@
-### Olá! Meu nome é Diego e seja bem-vindo 😎
-
-##
+## Olá! Seja bem-vindo. Eu sou o Diego 
 
 <div>
   <a href="#">
@@ -10,11 +8,31 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="60" width="60" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/csharp.svg">
-  <img align="center" alt="Dot Net Core" height="60" width="60" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/dotnetcore.svg">
-  <img align="center" alt="Entity Framework Core" height="60"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/EFCoreBanner.png">
-  <img align="center" alt="SQL Server" height="60"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/SqlServer.jpg">
-  <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/git.png">
+  <img align="center" alt="Csharp" height="50" width="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/csharp.svg">
+  <img align="center" alt="Dot Net Core" height="50" width="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/dotnetcore.svg">
+  <img align="center" alt="Entity Framework Core" height="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/EFCoreBanner.png">
+  <img align="center" alt="SQL Server" height="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/SqlServer.jpg">
+  <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/git.png">
+</div>
+
+##
+
+<div>
+  <a href="https://bit.ly/3CrogCJ" target="_blank">
+    <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="mailto:diegomcarvalho7@gmail.com">
+    <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://bit.ly/3fN2v6s">
+    <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://bit.ly/3lOJHYf">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/12142749081?si=cf0199204633444c">
+    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
 </div>
 
 <!--
