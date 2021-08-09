@@ -10,12 +10,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
-  <img align="center" alt="Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  
-  
-  
+  <img align="center" alt="Csharp" height="60" width="60" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/csharp.svg">
+  <img align="center" alt="Dot Net Core" height="60" width="60" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/dotnetcore.svg">
+  <img align="center" alt="Entity Framework Core" height="60"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/EFCoreBanner.png">
+  <img align="center" alt="SQL Server" height="60"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/SqlServer.jpg">
+  <img align="Git" alt="Git"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/git.png">
 </div>
 
 <!--
