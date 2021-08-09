@@ -14,7 +14,7 @@
   <img align="center" alt="Dot Net Core" height="60" width="60" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/dotnetcore.svg">
   <img align="center" alt="Entity Framework Core" height="60"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/EFCoreBanner.png">
   <img align="center" alt="SQL Server" height="60"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/SqlServer.jpg">
-  <img align="Git" alt="Git"  src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/git.png">
+  <img align="center" alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/git.png">
 </div>
 
 <!--
