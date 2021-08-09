@@ -24,14 +24,14 @@
   <a href="mailto:diegomcarvalho7@gmail.com">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://bit.ly/3fN2v6s">
+  <a href="https://bit.ly/3fN2v6s" target="_blank">
     <img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://bit.ly/3lOJHYf">
+  <a href="https://bit.ly/3lOJHYf" target="_blank">
     <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://open.spotify.com/user/12142749081?si=cf0199204633444c">
-    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+    <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
 
