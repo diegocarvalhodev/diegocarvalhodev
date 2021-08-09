@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo. Eu sou o Diego 
+## Olá devs! Sejam bem-vindos. Eu sou o Diego
 
 <div>
   <a href="#">
@@ -7,6 +7,7 @@
   </a>  
 </div>
 
+<h2> :rocket: &nbsp;Minhas Skills </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="50" width="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/csharp.svg">
   <img align="center" alt="Dot Net Core" height="50" width="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/dotnetcore.svg">
@@ -15,9 +16,9 @@
   <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/diegocarvalhodev/diegocarvalhodev/master/images/git.png">
 </div>
 
-##
-
+<br>
 <div>
+  <h2> :earth_americas: &nbsp;Onde me encontrar: </h2>
   <a href="https://bit.ly/3CrogCJ" target="_blank">
     <img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
@@ -34,6 +35,7 @@
     <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
+<br>
 
 <!--
 **diegocarvalhodev/diegocarvalhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
